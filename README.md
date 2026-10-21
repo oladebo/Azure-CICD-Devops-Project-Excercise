@@ -29,7 +29,7 @@ Architecture Overview
 
 
 
-The architecture illustrates how developers manage Azure Data Factory changes through Git branches and promote approved changes through Azure DevOps into the target environments.
+The architecture illustrates how data Engineer and  developers manage Azure Data Factory changes through Git branches and promote approved changes through Azure DevOps into the target environments.
 
 
 ### Key Components
@@ -46,11 +46,6 @@ The architecture illustrates how developers manage Azure Data Factory changes th
 |ARM Template Parameters       | Support environment-specific configuration.|
 |Deployment Agent              |Executes deployment tasks and communicates with Azure services.|
 |QA and Production Environments|Support validation and controlled release of pipeline changes.|
-
-### CI/CD Workflow
-
-#### 1. Development and Version Control
-
 
 
 
