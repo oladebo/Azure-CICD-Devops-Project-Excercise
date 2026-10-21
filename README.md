@@ -27,11 +27,7 @@ This project addresses these challenges by implementing an automated CI/CD proce
 
 Architecture Overview
 
-
-
-
-
-
+![image alt](https://github.com/oladebo/Azure-CICD-Devops-Project-Excercise/blob/4a203cbf86195b8ed698187d105c211c9946c9f4/Screen%20Shot%202026-10-21%20at%2012.16.37.png)
 
 
 
