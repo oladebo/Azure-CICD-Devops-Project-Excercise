@@ -34,8 +34,8 @@ The architecture illustrates how developers manage Azure Data Factory changes th
 
 ### Key Components
 
-Component                        |                Purpose
----------------------------------------------------------------------------------------------|
+|Component                       |                Purpose                                  |
+|------------------------------------------------------------------------------------------|
 |Azure Resource Group            |      Organizes and manages Azure resources.
 ---------------------------------------------------------------------------------------------|
 |Azure Data Factory              |      Develops and executes data integration pipelines.
