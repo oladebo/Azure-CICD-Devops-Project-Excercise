@@ -29,6 +29,14 @@ Architecture Overview
 
 
 
+
+
+
+
+
+
+https://drive.google.com/file/d/1RZjgwUFwfLUU4d6_74WORkYT52sT4ECz/view?usp=drive_link
+
 The architecture illustrates how data Engineer and  developers manage Azure Data Factory changes through Git branches and promote approved changes through Azure DevOps into the target environments.
 
 
