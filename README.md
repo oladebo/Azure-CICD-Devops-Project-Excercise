@@ -34,19 +34,19 @@ The architecture illustrates how developers manage Azure Data Factory changes th
 
 ### Key Components
 
-Component                                        Purpose
-
-Azure Resource Group                    Organizes and manages Azure resources.
-
-Azure Data Factory                      Develops and executes data integration pipelines.
-
-Git Repository                          Stores source code and tracks changes.
-
-Feature Branches                        Isolates development work before integration.
-
-Pull Requests                           Enables review and approval of changes.
-
-Azure DevOps                            Orchestrates CI/CD builds and deployment workflows.
+Component                        |                Purpose
+---------------------------------------------------------------------------------------------|
+|Azure Resource Group            |      Organizes and manages Azure resources.
+---------------------------------------------------------------------------------------------|
+|Azure Data Factory              |      Develops and executes data integration pipelines.
+---------------------------------------------------------------------------------------------|
+|Git Repository                  |      Stores source code and tracks changes.
+---------------------------------------------------------------------------------------------|
+|Feature Branches                |      Isolates development work before integration.
+---------------------------------------------------------------------------------------------|
+|Pull Requests                   |      Enables review and approval of changes.
+---------------------------------------------------------------------------------------------|
+Azure DevOps                          Orchestrates CI/CD builds and deployment workflows.
 
 ARM Templates                           Define Azure Data Factory resources for deployment.
 
